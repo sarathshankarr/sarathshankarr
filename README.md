@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Sarath.S</h1>
 
-<h3 align="center">🚀 A Passionate Web & Mobile Developer from India 🚀</h3>
+<h3 align="center">🚀 A Passionate Mobile Developer from India 🚀</h3>
 
 🌱 I’m currently working with **React Native**  
 💬 Ask me about **React, React Native, and Mobile App Development**  
