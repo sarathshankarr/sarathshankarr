@@ -9,7 +9,7 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/potluru-chakradhar-46741a243)
+[![Discord](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/sarath-s-927843206)
 
 # 💻 Tech Stack:
 ![React Native](https://img.shields.io/badge/React%20Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) 
